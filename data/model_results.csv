@@ -1,0 +1,10 @@
+,Best Params,MAE,R2
+Linear Regression,,6936795.561192864,0.5004742065586992
+Decision Tree,"{'min_samples_split': 10, 'min_samples_leaf': 2, 'max_depth': 15}",2984207.616637462,0.8207126859301984
+Random Forest,"{'n_estimators': 300, 'min_samples_split': 5, 'min_samples_leaf': 2, 'max_depth': 20, 'bootstrap': True}",2510590.823179461,0.873715821497939
+Gradient Boosting,"{'subsample': 1.0, 'n_estimators': 300, 'max_depth': 5, 'learning_rate': 0.05}",3284739.124909643,0.8582256968569703
+SVR,"{'kernel': 'linear', 'gamma': 'scale', 'C': 10}",7707536.666728947,-0.029812847435518153
+KNN,"{'weights': 'uniform', 'n_neighbors': 5}",2648277.813995423,0.8543992552274975
+XGBoost,"{'subsample': 1.0, 'n_estimators': 300, 'max_depth': 10, 'learning_rate': 0.05}",2835027.363374714,0.8545504113929173
+CatBoost,"{'learning_rate': 0.05, 'l2_leaf_reg': 3, 'iterations': 500, 'depth': 10}",3143645.8083197214,0.8619852780242906
+LightGBM,"{'subsample': 0.8, 'num_leaves': 50, 'n_estimators': 500, 'max_depth': 20, 'learning_rate': 0.05}",2902797.3921851204,0.8720517961285538
