@@ -6,6 +6,7 @@ This is a **Machine Learning-based House Price Prediction** project that helps u
 
 ### Live Demo
 🖥️ **Current Deployment:** [House Price Prediction App](http://13.60.187.226:8080/)
+📊 **Tableau Dashboard:** [House Price Prediction Dashboard](https://public.tableau.com/app/profile/narayan.attarde/viz/Dashboard_House_price_prediction/Dashboard1?publish=yes)
 
 ## Features
 - 📍 Predicts house prices based on key attributes
