@@ -1,6 +1,5 @@
 # House Price Prediction
 
-![House Price Prediction](https://via.placeholder.com/800x300.png?text=House+Price+Prediction)
 
 ## Overview
 This is a **Machine Learning-based House Price Prediction** project that helps users estimate property prices based on various features like location, area, number of bedrooms, bathrooms, and construction status. The application is built using **Flask** and deployed on a cloud server.
