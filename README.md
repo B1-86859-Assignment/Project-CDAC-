@@ -5,7 +5,7 @@
 This is a **Machine Learning-based House Price Prediction** project that helps users estimate property prices based on various features like location, area, number of bedrooms, bathrooms, and construction status. The application is built using **Flask** and deployed on a cloud server.
 
 ### Live Demo
-- 🖥️ **Current Deployment:** [House Price Prediction App](http://13.48.195.200:8080/)
+- 🖥️ **Current Deployment:** [House Price Prediction App](http://54.172.228.38:8080)
 - 📊 **Tableau Dashboard:** [House Price Prediction Dashboard](https://public.tableau.com/app/profile/narayan.attarde/viz/Dashboard_House_price_prediction/Dashboard1?publish=yes)
 
 ## Features
